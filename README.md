@@ -15,18 +15,14 @@ WeatherWiz is a Java application that retrieves and displays weather data for a 
     git clone https://github.com/yuneshwaran/WeatherWiz.git
     cd WeatherWiz
     ```
-1. **Open Android Studio:**
+2. **Open Android Studio:**
     Build and Run the App from AppLauncher.java
 
 <p align="center">
   <img src="src/assets/img.png" alt="WeatherWiz GUI">
 </p>
-### Using the GUI
-1. **Search for a Location:**
-    - Enter the name of a location in the search field.
-    - Click the search button to retrieve and display weather information for the specified location.
 
-2. **Displayed Information:**
+3. **Displayed Information:**
     - **Weather Image:** An icon representing the current weather condition (e.g., clear, cloudy, rain, snow).
     - **Temperature:** The current temperature in Celsius.
     - **Weather Condition Description:** A text description of the weather condition.
