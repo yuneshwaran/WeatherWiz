@@ -8,10 +8,6 @@ public class AppLauncher {
                 // display our weather app gui
                 new WeatherWizGUI().setVisible(true);
 
-//                System.out.println(WeatherApp.getLocationData("Chennai"));
-
-//                System.out.println(WeatherApp.getCurrentTime());
-
             }
         });
     }
